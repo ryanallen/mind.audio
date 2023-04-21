@@ -18,43 +18,6 @@
                 display: block;
             }
         </style>
-        <script>
-            // Create an animation loop to move the waveform.
-            function animateWave() {
-                // Create a new waveform
-                let waveform = document.createElement('div');
-                waveform.classList.add('waveform');
-                
-                // Create a loop to move the waveform
-                let x = 0;
-                let y = 0;
-                let speed = 1;
-                let direction = 1;
-                
-                // Animate the waveform
-                let interval = setInterval(() => {
-                    // Increase the x position of the waveform
-                    x += speed;
-                    
-                    // Change the direction of the waveform
-                    if (x >= window.innerWidth || x <= 0) {
-                    direction *= -1;
-                    }
-
-                    // Increase the y position of the waveform
-                    y += 4 * direction;
-                    
-                    // Move the waveform
-                    waveform.style.transform = `translate(${x}px, ${y}px)`;
-                    
-                    // Add the waveform to the page
-                    document.body.prependChild(waveform);
-                }, 10);
-            }
-
-            // Call the animation loop
-            animateWave();
-        </script>
     </head>
     <body>
         <img id="centeredImage" src="mind-audio-logo.png" alt="lOGOMARKS + LOGOTYPES FOR MIND.AUDIO">
