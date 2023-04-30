@@ -1,34 +1,37 @@
-
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>MIND.AUDIO</title>
-    <style>
-      body {
-        background-color: #FA5698;
-      }
+<head>
+<title>MIND.AUDIO</title>
+<style>
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
 
-      img {
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        width: 100%;
-        height: 100%;
-      }
+body {
+    background-color: #FA5698;
+    background-image: url('background.png');
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    max-width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
 
-      audio {
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        width: 50%;
-      }
-    </style>
-  </head>
-  <body>
-    <img src="background.png" />
+audio {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+</style>
+</head>
+<body>
     <audio controls="controls" preload="auto">
-      <source src="mind-audio-1m.mp3" type="audio/mp3" />
+        <source src="mind-audio-1m.mp3" type="audio/mp3" />
     </audio>
-  </body>
+</body>
 </html>
