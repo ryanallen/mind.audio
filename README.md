@@ -12,6 +12,20 @@ Be still and calm the breath.
 src: [Viewing the Guru Through the Lens of the Seven Limb Puja](https://www.goodreads.com/book/show/33518202-viewing-the-guru-through-the-lens-of-the-seven-limb-puja)
 practice: [The Seven-Limb Practice](https://multimedia.lamayeshe.com/2015/09/23/the-seven-limb-practice/)
 
+Visualize all the Buddhas, Bodhisattvas and masters in front of you.
+
+The King of Noble Prayers aspiring to the deeds of the Excellent.
+
+Homage to the ever-youthful Arya Manjushri!
+
+Paying homage to the Buddhas and Bodhisattvas.
+Throughout all the worlds in the ten directions,
+Dwell the sugatas of the three times, lions among men,
+To all of them without exception
+With devotion I bow down with my body, speech and mind.
+By the strength of this aspiration to the deeds of the excellent,
+And by envisioning myself in the presence of all the victorious ones,
+
 
 ### 7 limbs  
 src: [words of my perfect teacher](https://github.com/ryanallen/words-of-my-perfect-teacher)  
