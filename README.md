@@ -8,6 +8,13 @@ Be still and calm the breath.
 
 ---
 
+### 7 limbs  
+src: [words of my perfect teacher](https://github.com/ryanallen/words-of-my-perfect-teacher)  
+
+I pay infinite homage to all great masters. I offer my body, speech, and mind. I confess all negative actions from desire, ignorance, anger, pride, and envy in your presence. I rejoice in the merit of all sentient beings and masters. Please give great and revolutionary teachings. Please great masters, for the benefit of all sentient beings, stay and help us. I dedicate all my virtue from this to the enlightenment of all beings!
+
+---
+
 ### The Seven Branch Offering  
 src: [Viewing the Guru Through the Lens of the Seven Limb Puja](https://www.goodreads.com/book/show/33518202-viewing-the-guru-through-the-lens-of-the-seven-limb-puja)
 practice: [The Seven-Limb Practice](https://multimedia.lamayeshe.com/2015/09/23/the-seven-limb-practice/)
@@ -25,12 +32,60 @@ To all of them without exception
 With devotion I bow down with my body, speech and mind.
 By the strength of this aspiration to the deeds of the excellent,
 And by envisioning myself in the presence of all the victorious ones,
+Prostrating to them with bodies as numberless as the atoms of this world,
+I pay homage to every Buddha!
+Upon each atom are as many Buddhas as atoms exist,
+Each seated in the midst of gathered Bodhisattvas.
+In this way the entire Dharmadhatu excluding nothing,
+Is imagined to be completely filled by victorious ones.
+Rendering praises inexhaustible as the ocean.
+In melodious tones as boundless as the sea,
+The enlightened qualities of all the conquerors are acknowledged,
+And I praise all Sugatas!  
 
+Making Offerings such as incense and flowers to all the Buddhas and Bodhisattvas
+Excellent garlands of magnificent flowers,
+Instrumentation, oils and the best of parasols,
+Splendid butter lamps and sacred incense;
+All of this is offered to the victorious ones (Buddhas)!
+The finest of garments and superior perfumes
+And fragrant powder equaling Sumeru,
+This magnificent array of the finest and best of them all
+Is offered to the victorious ones (Buddhas)!
+Whatever is offered is unsurpassed in opulence,
+And directed with utmost devotion to all the Buddhas.
+By the strength of faith of this aspiration of the deeds of excellence,
+Paying homage to all the Buddhas, these offerings are made.
 
-### 7 limbs  
-src: [words of my perfect teacher](https://github.com/ryanallen/words-of-my-perfect-teacher)  
+Confessing negative actions from desire, ignorance, anger, pride and envy in the presence of all Buddhas and Bodhisattvas.
+Overpowered by desire, anger and delusion,
+With my body, my speech and similarly with my mind,
+Whatever negativity that I have amassed,
+I confess individually and entirely.
 
-I pay infinite homage to all great masters. I offer my body, speech, and mind. I confess all negative actions from desire, ignorance, anger, pride, and envy in your presence. I rejoice in the merit of all sentient beings and masters. Please give great and revolutionary teachings. Please great masters, for the benefit of all sentient beings, stay and help us. I dedicate all my virtue from this to the enlightenment of all beings!
+Rejoicing in the merit of all sentient beings, Buddhas and Bodhisattvas.
+The merit of all the victorious ones of the ten directions and their heirs,
+Of the solitary realizers and those on the paths of learning and no more learning,
+And of every sentient being without exception --,
+I fully rejoice in all such accumulations!
+
+Requesting that the wheel of Dharma be turned.
+All those who illuminate the world systems of the ten directions,
+Who have attained Buddhahood and freedom from attachment through the stages of enlightenment,
+I implore all those protectors
+To turn the peerless wheel of Dharma!
+
+Requesting the Buddhas and Bodhisattvas not to enter Nirvana.
+All you who intend to display entering nirvana,
+For the purpose of bringing benefit and bliss to all beings,
+For as many eons as there are particles of dust on earth.
+With palms pressed together I beseech you to remain in the world!
+
+Dedicating the merit.
+By paying homage, making offerings, confession and
+Rejoicing, requesting and beseeching --,
+Whatever virtue I have gained through these efforts,
+I dedicate it all to the enlightenment of all beings!
 
 ---
 
