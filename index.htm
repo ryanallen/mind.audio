@@ -2,18 +2,25 @@
   <head>
     <title>MIND.AUDIO</title>
     <style>
+      @font-face {
+        font-family: fnt;
+        src: url(fnt.ttf);
+}
       body {
-        background-color: #FA5698;
+        background: #802783; 
+        background: radial-gradient(circle at center, #802783 0%, #155a5f 100%);
       }
 
-      img {
+      h1 {
         position: fixed;
-        top: 50%;
+        top: 40%;
         left: 50%;
-        transform: translate(-50%, -50%);
-        width: 100%;
-        height: 100%;
-      }
+        transform: translate(-50%, -20%);
+        width: 50%;
+        text-align: center;
+        color: #FFFFFF;
+        font-family: fnt;
+}
 
       audio {
         position: fixed;
@@ -25,7 +32,7 @@
     </style>
   </head>
   <body>
-    <img src="background.png" />
+    <h1>MIND AUDIO</h1>
     <audio controls="controls" preload="auto">
       <source src="mind-audio-1m.mp3" type="audio/mp3" />
     </audio>
