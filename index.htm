@@ -5,11 +5,6 @@
       font-family: fnt;
       src: url(fnt.ttf);
     }
-    body {
-      background: #802783; 
-      background: radial-gradient(circle at center, #802783 0%, #155a5f 100%);
-    }
-
     h1 {
       position: fixed;
       top: 30%;
@@ -29,6 +24,27 @@
       transform: translate(-50%, -50%);
       width: 50%;
     }
+
+    @keyframes backgroundGradient {
+      0% {background: #802783;}
+      10%{background: #753779;}
+      20%{background: #6b4378;}
+      30%{background: #614775;}
+      40%{background: #574d71;}
+      50%{background: #4e546a;}
+      60%{background: #44595d;}
+      70%{background: #3a5e50;}
+      80%{background: #2e6245;}
+      90%{background: #20643d;}
+      100% {background: #155a5f;} 
+      110% {background: #20643d;} 
+      120% {background: #802783;}
+    }
+
+    body {
+      animation: backgroundGradient 24s infinite alternate linear;
+    }
+
   </style>
 </head>
 <body>
